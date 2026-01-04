@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Yousif 👋
 
-<!--
-**YousifElia/YousifElia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student | Software & ML Enthusiast**  
+💡 I build practical, focused projects that solve real problems — from productivity tools to data-driven applications.
 
-Here are some ideas to get you started:
+## 🚀 What I’m About
+- Strong foundations in **Python, C, Java**, and web development
+- Interested in **software engineering, ML, and product-focused engineering**
+- I value **clarity, consistency, and shipping things that work**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Featured Projects
+- **StudyStock** – Web app for organizing coursework and staying consistent  
+- **Finance Tracker** – Budgeting & analytics tool built as a first-year project  
+- **Goal Motivator** – Productivity system designed to beat procrastination  
+
+*(Each project is built end-to-end and documented clearly.)*
+
+## 📈 What I’m Looking For
+I’m actively seeking **Software / ML Internships** where I can learn fast, contribute meaningfully, and grow as an engineer.
+
+📫 **Let’s connect:**  
+- GitHub: _you’re already here_  
+- LinkedIn: *(add link)*  
+- Email: *(add email)*
+
+> I care less about flashy tech and more about building things that actually help people.
