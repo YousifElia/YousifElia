@@ -1,4 +1,4 @@
-# Hey, I'm Yousif
+# Hey, I'm Yousif 👋
 
 CS student at the University of Windsor. I spent last summer as a database co-op at Stellantis, and now I mostly build tools I end up using every day.
 
