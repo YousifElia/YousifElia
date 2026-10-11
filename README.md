@@ -1,16 +1,18 @@
-# Hi, I’m Yousif 👋
+# Hey, I'm Yousif
 
-**Computer Science Student | Software & ML Enthusiast**  
-I build practical, focused projects that solve real problems, from productivity tools to data-driven applications.
+CS student at the University of Windsor. I spent last summer as a database co-op at Stellantis, and now I mostly build tools I end up using every day.
 
-## Projects
-- **StudyStock** – Web app for organizing coursework and staying consistent  
-- **Finance Tracker** – Budgeting & analytics tool built as a first-year project  
-- **Goal Motivator** – Productivity system designed to beat procrastination  
+Looking for SWE / ML internships for Summer 2027.
 
-*(Each project is built end-to-end and documented clearly.)*
+### Things I've built
 
-## What I’m Looking For
-I’m actively seeking **Software / ML Internships** where I can learn fast, contribute meaningfully, and grow as an engineer.
+- **[Tether](link)**: my terminal, in a browser, from anywhere. Written in Go and works on my phone.
+- **[Dusk](link)**: warms my screen at sunset so I stop staring at blue light at 2 am. C# / Win32.
+- **[Whisper Reader](link)**: reads text out loud so I can listen instead of read.
+- **[Capy Focus](link)**: focus app I'm building right now.
 
-> I care more about building things that actually help people.
+### Other stuff
+- Built a Quickbase app at Stellantis that tracks workforce skills on the plant floor.
+- Tracking Spending 
+
+[Portfolio]([link](https://yousif.eliaa.workers.dev/)) · [LinkedIn]([link](https://www.linkedin.com/in/yousif-elia-swe/)) · [Email](yousif.eliaa@gmail.com)
