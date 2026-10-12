@@ -7,7 +7,7 @@ I'm looking for SWE/ML internships for Summer 2027.
 ### Things I've built
 
 - **[Tether](link)**: my terminal, in a browser, from anywhere. Written in Go and works on my phone.
-- **[Dusk](link)**: warms my screen at sunset so I stop staring at blue light at 2 am. C# / Win32.
+- **[Dusk](https://github.com/YousifElia/Dusk)**: warms my screen at sunset so I stop staring at blue light at 2 am. C# / Win32.
 - **[Whisper Reader](link)**: reads text out loud so I can listen instead of read.
 - **[Capy Focus](link)**: focus app I'm building right now.
 
